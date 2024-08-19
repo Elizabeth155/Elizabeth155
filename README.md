@@ -1,4 +1,5 @@
 ## Hi there 👋
+
 <!DOCTYPE html>
 <html>
     <head>
@@ -11,26 +12,24 @@
             <h3>Freshman from Russia</h3>
         </div>
         <a href="https://vk.com/dusty_bunny155">
-            <img scr="https://img.icons8.com/?size=100&id=13977&format=png&color=000000" alt="vk">
+        <!--<img scr="icons8-vk-50.png" alt="vk"> -->
         </a>
         <a href="https://t.me/dusty_bunny155">
-            <img scr="https://img.shields.io/badge/telegram-blue?
-            style=for-the-badge&logo=telegram&logoColor=white" alt="telegram">
+          <!--  <img scr="https://img.shields.io/badge/telegram-blue?
+            style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"> -->
         </a>
-    
-        <p>About me</p>
-        <br>:snake: I learn Python</br>
-        <br>:blossom: I'm 1st year student 
-        <br>:mailbox_closed: Reach me by [email](mailto:sosmetanoy.kartoshka@mail.ru)
-
         <p>Languages and tools</p>
         <img src="https://cdn.jsdelivr.net/gh/devicons
         /devicon@latest/icons/python/python-original.svg" 
         title="py" width="40" height="40"/>
-          
-
     </body>
 </html>
+
+##About me
+* :snake: I learn Python</br>
+* :blossom: I'm 1st year student 
+* :mailbox_closed: Reach me by [email](mailto:sosmetanoy.kartoshka@mail.ru)
+
 <!--
 **Elizabeth155/Elizabeth155** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
