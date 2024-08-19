@@ -11,7 +11,7 @@
             <h3>Freshman from Russia</h3>
         </div>
         <a href="https://vk.com/dusty_bunny155">
-            <img scr="![image](https://github.com/user-attachments/assets/ee9d3958-d653-4ef5-ae57-2bb67201d9da)" alt="vk">
+            <img scr="https://img.icons8.com/?size=100&id=13977&format=png&color=000000" alt="vk">
         </a>
         <a href="https://t.me/dusty_bunny155">
             <img scr="https://img.shields.io/badge/telegram-blue?
